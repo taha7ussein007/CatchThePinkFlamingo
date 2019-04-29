@@ -1,14 +1,14 @@
 # Catch The Pink Flamingo
 
-###Context
+### Context
 All the data are about a mobile game, named “Catch the Pink Flamingo”. It’s produced by Eglence Inc. 
 It’s a multi-user game where the players have to catch Pink Flamingos that randomly pop up on a gridded world map based on missions that change in real-time.
 
-###Objective
+### Objective
 The objective of the game is to catch as many Pink Flamingos as possible by following the missions provided by real-time prompts in the game and cover
  the map provided for each level. The levels get more complicated in mission speed and map complexity as the users move from level to level.
 
-###Problem Statement
+### Problem Statement
 The “catchThePinkFlamingo” contains a single CSV file created by aggregating data from several game data files.
 It is intended to be used for identifying big spenders
 
